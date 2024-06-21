@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "netpixel_api:block/airplace_block"
+    }
+  }
+}
